@@ -12,7 +12,7 @@ def push(elem: Any) -> None:
 	:return: Nothing
 	"""
 	print(elem)
-	return None
+	# return None
 
 
 def pop() -> Any:
